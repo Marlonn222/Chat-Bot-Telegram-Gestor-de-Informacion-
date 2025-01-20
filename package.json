@@ -1,0 +1,21 @@
+{
+  "name": "mi-bot-telegram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/identity": "^4.5.0",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "dotenv": "^16.4.5",
+    "isomorphic-fetch": "^3.0.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "puppeteer-core": "^23.8.0",
+    "xlsx": "^0.18.5"
+  }
+}
